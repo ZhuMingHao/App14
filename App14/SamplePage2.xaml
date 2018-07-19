@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <TextBlock Text="Sample Page Two!" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="55"/>
     </Grid>
 </Page>

@@ -28,7 +28,7 @@ namespace App14
         public MainPage()
         {
             this.InitializeComponent();
-            contentFrame.Navigate(typeof(DefaultPage));       
+            contentFrame.Navigate(typeof(SamplePage1));       
         }     
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
